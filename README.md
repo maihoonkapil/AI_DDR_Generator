@@ -53,7 +53,7 @@ ai-ddr-generator/
 ├── utils.py
 ├── report_generator.py
 ├── requirements.txt
-└── outputs/report.pdf
+└── outputs/
 
 
 ---
