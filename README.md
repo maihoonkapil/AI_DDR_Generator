@@ -63,7 +63,7 @@ ai-ddr-generator/
 1. Clone the repo
 2. Create virtual environment
 3. Install dependencies: pip install -r requirements.txt
-4. 4. Add `.env` file: GOOGLE_API_KEY=your_api_key
+4. Add `.env` file: GOOGLE_API_KEY=your_api_key
 5. Place input files:
 - `inspection.pdf`
 - `thermal.pdf`
